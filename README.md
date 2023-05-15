@@ -1,2 +1,2 @@
 # PhD
-Co-expression network to model and non-model plants 
+Work flow to build co-expression network 
