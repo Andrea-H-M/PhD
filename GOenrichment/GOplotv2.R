@@ -1,5 +1,5 @@
 ######################################################
-## Tema: Gráficas de burbuja para enriquesimiento   ##
+## Tema: Gráficas de burbuja para enriquecimiento   ##
 ## Autor: Olga Andrea Hernandez Miranda, Miranda H  ##
 ## Fecha: 10/11/2023                                ##
 ## Nota: Enriquesimiento funcional en con GO        ##
